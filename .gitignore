@@ -1,0 +1,12 @@
+# GNS3 runtime & cache
+project-files/dynamips/*.image*
+project-files/dynamips/ilt_*
+project-files/dynamips/*.ghost
+project-files/**/ubridge.log
+project-files/**/vpcs.log
+project-files/**/dynamips_*_log.txt
+project-files/**/c7200_*_log.txt
+
+# OS files
+Thumbs.db
+.DS_Store
